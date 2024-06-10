@@ -13,10 +13,6 @@ When specifying `tissue_dir`, ensure the directory includes five crucial files t
 - `spatial/tissue_lowres_image.png`
 - `spatial/tissue_hires_image.png`
 
-# Requirements
-
-1. Install dependencies: `pip install -r requirements.txt`
-
 
 # Public Data Download
 
