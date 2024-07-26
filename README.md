@@ -24,6 +24,8 @@ When specifying `tissue_dir`, ensure the directory includes five crucial files t
 These datasets were used in our paper. You can access and download the datasets using the follw links:
 https://github.com/FredHutch/Galeano-Nino-Bullman-Intratumoral-Microbiota_2022.
 
+# Published
+https://www.biorxiv.org/content/10.1101/2024.06.09.598160v1
 
 # Contact
 
