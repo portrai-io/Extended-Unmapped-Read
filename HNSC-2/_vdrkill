@@ -1,0 +1,715 @@
+{
+    "timestamp": "2023-12-20T18:27:48.912161914Z",
+    "paths": [
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/CLOUPE_PREPROCESS/fork0/chnk0-uaf1c833213/files/gem_group_index_json.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/CLOUPE_PREPROCESS/fork0/chnk0-uaf1c833213/files/output_for_cloupe.cloupe",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/CLOUPE_TILE_IMAGES/fork0/join-uaf1c83248e/tmp/tmponzg5flg",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/CLOUPE_TILE_IMAGES/fork0/join-uaf1c83248e/files/dzi_info.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/CLOUPE_TILE_IMAGES/fork0/join-uaf1c83248e/files/dzi_tiles_paths",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/ALIGN_FIDUCIALS/fork0/chnk0-uaf1c832493/files/registered_spots_data_json.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/ALIGN_FIDUCIALS/fork0/chnk0-uaf1c832493/files/fiducial_alignment_metrics.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/ALIGN_FIDUCIALS/fork0/chnk0-uaf1c832493/files/qc_aligned_fiducials_image.jpg",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/DETECT_TISSUE/fork0/chnk0-uaf1c8324a1/files/detected_tissue_mask.jpg",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/DETECT_TISSUE/fork0/chnk0-uaf1c8324a1/files/grabcut_markers.png",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/DETECT_TISSUE/fork0/chnk0-uaf1c8324a1/files/initialization.jpg",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/DETECT_TISSUE/fork0/chnk0-uaf1c8324a1/files/registered_selected_spots_json.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/DETECT_TISSUE/fork0/chnk0-uaf1c8324a1/files/qc_detected_tissue_image.jpg",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/GPR_READER/fork0/chnk0-uaf1c83248f/files/V11S14-034_C1.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/GPR_READER/fork0/chnk0-uaf1c83248f/files/gpr_spots_data_json.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/OUTPUT_SPOTS_BARCODES/fork0/chnk0-uaf1c8325be/files/final_spot_position_list.txt",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/OUTPUT_SPOTS_BARCODES/fork0/chnk0-uaf1c8325be/files/barcodes_under_tissue.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/OUTPUT_SPOTS_BARCODES/fork0/chnk0-uaf1c8325be/files/final_fiducial_position_list.txt",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/OUTPUT_SPOTS_BARCODES/fork0/chnk0-uaf1c8325be/files/scalefactors.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/OUTPUT_SPOTS_BARCODES/fork0/chnk0-uaf1c8325be/files/tissue_positions.csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/tissue_hires_image.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/tissue_lowres_image.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/crop_info_json.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/fiducials_detection_image.png",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/tissue_detection_image.png",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/scalefactors_json.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/tissue_hires_image.png",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_IMAGING_CS/STANDARDIZE_IMAGES/fork0/join-uaf1c832489/files/tissue_lowres_image.png",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk00-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk01-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk02-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk03-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk04-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk05-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk06-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk07-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk08-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk09-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk10-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk11-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk12-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk13-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk14-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk15-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk16-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk17-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk18-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk19-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/chnk20-uaf1c8330cd/files/chunked_spatial_enrichment_files.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/0_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/0_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/10000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/10000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/12000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/12000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/14000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/14000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/16000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/16000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/18000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/18000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/20000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/20000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/2000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/2000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/22000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/22000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/24000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/24000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/26000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/26000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/28000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/28000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/30000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/30000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/32000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/32000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/34000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/34000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/36000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/36000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/38000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/38000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/40000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/40000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/4000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/4000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/6000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/6000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/8000_spatial_feature_def.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/8000_spatial_submatrix.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/split-uaf1c8330c7/files/weight_matrix.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/join-uaf1c8330c7/files/spatial_enrichment_json.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/RUN_SPATIAL_ENRICHMENT/fork0/join-uaf1c8330c7/files/spatial_enrichment_csv.csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_REPORTER/fork0/chnk0-uaf1c833190/tmp/tmpm7fnlwhd",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/COMBINE_CLUSTERING/fork0/chnk0-uaf1c833175/files/clustering_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/COMBINE_CLUSTERING/fork0/chnk0-uaf1c833175/files/clustering_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-uaf1c83310c/files/cloupe_matrix_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/PREPROCESS_MATRIX/fork0/join-uaf1c83310c/files/preprocessed_matrix_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk0-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk1-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk2-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk3-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk4-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk5-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk6-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/chnk7-uaf1c833176/files/diffexp.bincode.lz4",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/join-uaf1c833176/files/diffexp_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_DIFFERENTIAL_EXPRESSION/fork0/join-uaf1c833176/files/diffexp_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/chnk0-uaf1c833158/files/clusters_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/chnk0-uaf1c833158/files/clusters_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/join-uaf1c833158/files/clusters_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_GRAPH_CLUSTERING/fork0/join-uaf1c833158/files/clusters_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk0-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk0-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk1-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk1-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk2-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk2-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk3-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk3-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk4-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk4-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk5-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk5-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk6-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk6-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk7-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk7-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk8-uaf1c833159/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/chnk8-uaf1c833159/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/join-uaf1c833158/files/kmeans_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_KMEANS/fork0/join-uaf1c833158/files/kmeans_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_PCA/fork0/chnk0-uaf1c83311a/files/pca_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_PCA/fork0/chnk0-uaf1c83311a/files/pca_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_PCA/fork0/join-uaf1c83311a/files/pca_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_PCA/fork0/join-uaf1c83311a/files/pca_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_TSNE/fork0/chnk0-uaf1c833158/files/tsne_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_TSNE/fork0/chnk0-uaf1c833158/files/tsne_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_TSNE/fork0/join-uaf1c833158/files/tsne_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_TSNE/fork0/join-uaf1c833158/files/tsne_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_UMAP/fork0/chnk0-uaf1c833158/files/umap_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_UMAP/fork0/chnk0-uaf1c833158/files/umap_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_UMAP/fork0/join-uaf1c833158/files/umap_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/RUN_UMAP/fork0/join-uaf1c833158/files/umap_h5.h5",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/chnk0-uaf1c83318f/files/analysis",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/chnk0-uaf1c83318f/files/analysis_csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/join-uaf1c83318f/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/SPATIAL_RNA_ANALYZER/SUMMARIZE_ANALYSIS/fork0/join-uaf1c83318f/files/analysis",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/WRITE_GENE_INDEX/fork0/chnk0-uaf1c832487/files/gene_index.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/FILTER_BARCODES/fork0/chnk0-uaf1c832f55/files/filtered_bcs_groups.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/FILTER_BARCODES/fork0/chnk0-uaf1c832f55/files/filtered_metrics_groups.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/FILTER_BARCODES/fork0/chnk0-uaf1c832f55/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/FILTER_BARCODES/fork0/join-uaf1c832f54/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/FILTER_BARCODES/fork0/join-uaf1c832f54/files/filtered_barcodes.csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/MERGE_METRICS/fork0/chnk0-uaf1c833177/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk00-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk01-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk02-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk03-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk04-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk05-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk06-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk07-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk08-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk09-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk10-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/WRITE_POS_BAM/fork0/chnk11-uaf1c832f55/files/pos_sortednon_multiplexed.bam",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk0-uaf1c833102/files/metrics.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk1-uaf1c833102/files/metrics.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/chnk2-uaf1c833102/files/metrics.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/join-uaf1c8330d5/files/merged_metrics.pickle",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_CELLS_REPORTER/SUBSAMPLE_READS/fork0/join-uaf1c8330d5/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_CELLS_REPORTER/SUMMARIZE_BASIC_REPORTS/fork0/join-uaf1c833159/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_CELLS_REPORTER/WRITE_MOLECULE_INFO/fork0/join-uaf1c8330c7/files/non_multiplexed_summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk00-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk00-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk01-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk01-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk02-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk02-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk03-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk03-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk04-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk04-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk05-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk05-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk06-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk06-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk07-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk07-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk08-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk08-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk09-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk09-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk10-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk10-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk11-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk11-uaf1c8325c8/files/barcode_summary.bsf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/join-uaf1c8325c8/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk00-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk01-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk02-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk03-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk04-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk05-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk06-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk07-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk08-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk09-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk10-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk11-uaf1c8325c8/files/bc_sort.csf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/join-uaf1c8325c8/files/barcode_summary.csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk00-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk00-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk01-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk01-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk02-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk02-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk03-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk03-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk04-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk04-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk05-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk05-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk06-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk06-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk07-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk07-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk08-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk08-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk09-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk09-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk10-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk10-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk11-uaf1c8325c8/files/bc_umi_info.bui",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk11-uaf1c8325c8/files/metrics_shard.bmsf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk00-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk01-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk02-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk03-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk04-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk05-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk06-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk07-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk08-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk09-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk10-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/chnk11-uaf1c8325c8/files/pos_sorted.asf",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/ALIGN_AND_COUNT/fork0/join-uaf1c8325c8/files/bam_header",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk00-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk00-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk00-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk01-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk01-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk01-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk02-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk02-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk02-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk03-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk03-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk03-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk04-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk04-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk04-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk05-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk05-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk05-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk06-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk06-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk06-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk07-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk07-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk07-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk08-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk08-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk08-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk09-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk09-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk09-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk10-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk10-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk10-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk11-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk11-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk11-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk12-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk12-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk12-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk13-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk13-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk13-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk14-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk14-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk14-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk15-uaf1c8325bc/files/chunk_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk15-uaf1c8325bc/files/corrected_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk15-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/join-uaf1c8325bc/files/correct_barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk00-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk00-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk01-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk01-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk02-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk02-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk03-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk03-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk04-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk04-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk05-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk05-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk06-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk06-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk07-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk07-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk08-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk08-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk09-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk09-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk10-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk10-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk11-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk11-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk12-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk12-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk13-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk13-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk14-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk14-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk15-uaf1c8325bc/files/invalid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/chnk15-uaf1c8325bc/files/valid_shard.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/join-uaf1c8325bc/files/total_barcode_counts.tbcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/BARCODE_CORRECTION/fork0/join-uaf1c8325bc/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/COLLATE_METRICS/fork0/chnk0-uaf1c832f4e/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/COLLATE_METRICS/fork0/chnk0-uaf1c832f4e/files/per_barcode_metrics.csv",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-uaf1c83249d/files/bc_correct_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-uaf1c83249d/files/chunk_hist.msh.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-uaf1c83249d/files/chunk_summary.msm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-uaf1c83249d/files/feature_counts.fbc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk1-uaf1c83249d/files/bc_correct_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk1-uaf1c83249d/files/chunk_hist.msh.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk1-uaf1c83249d/files/chunk_summary.msm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk1-uaf1c83249d/files/feature_counts.fbc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk2-uaf1c83249d/files/bc_correct_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk2-uaf1c83249d/files/chunk_hist.msh.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk2-uaf1c83249d/files/chunk_summary.msm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk2-uaf1c83249d/files/feature_counts.fbc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk3-uaf1c83249d/files/bc_correct_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk3-uaf1c83249d/files/chunk_hist.msh.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk3-uaf1c83249d/files/chunk_summary.msm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk3-uaf1c83249d/files/feature_counts.fbc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/join-uaf1c832496/files/sequencing_metrics.smf.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-uaf1c83249d/files/invalid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk1-uaf1c83249d/files/invalid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk2-uaf1c83249d/files/invalid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk3-uaf1c83249d/files/invalid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/join-uaf1c832496/files/barcode_counts.bcc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/join-uaf1c832496/files/barcode_segment_counts.bsc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/join-uaf1c832496/files/bc_correct_summary.bcm.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk0-uaf1c83249d/files/valid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk1-uaf1c83249d/files/valid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk2-uaf1c83249d/files/valid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/chnk3-uaf1c83249d/files/valid.shard",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/join-uaf1c832496/files/feature_counts.fbc.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/join-uaf1c832496/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MAKE_SHARD/fork0/split-uaf1c832496/files/feature_reference.frf.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/MERGE_METRICS/fork0/chnk0-uaf1c832f4e/files/summary.json",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/WRITE_BARCODE_INDEX/fork0/chnk0-uaf1c8325c8/files/barcode_index.bi.bincode",
+        "/home/seohyepark/seohyepark/231116_nadim/28313000_Tumor/SPATIAL_RNA_COUNTER_CS/SPATIAL_RNA_COUNTER/_BASIC_SPATIAL_RNA_COUNTER/_MATRIX_COMPUTER/WRITE_BARCODE_SUMMARY/fork0/chnk0-uaf1c832f4e/files/barcode_summary.h5"
+    ],
+    "errors": null,
+    "events": [
+        {
+            "Timestamp": "2023-12-20T17:29:37.79826544Z",
+            "DeltaBytes": 13190
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:38.408761627Z",
+            "DeltaBytes": 7424
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:43.099095745Z",
+            "DeltaBytes": 174353103
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:45.264265254Z",
+            "DeltaBytes": 24194
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:46.931456587Z",
+            "DeltaBytes": 14718349
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:50.738702623Z",
+            "DeltaBytes": -653
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:50.748192097Z",
+            "DeltaBytes": 11335
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:51.14031363Z",
+            "DeltaBytes": 9072298
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:54.195996237Z",
+            "DeltaBytes": -4096
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:55.458558468Z",
+            "DeltaBytes": -268442
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:55.468713759Z",
+            "DeltaBytes": 8284667
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:57.912347904Z",
+            "DeltaBytes": 6494
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:58.353547847Z",
+            "DeltaBytes": -174335217
+        },
+        {
+            "Timestamp": "2023-12-20T17:29:58.36048722Z",
+            "DeltaBytes": 6776883
+        },
+        {
+            "Timestamp": "2023-12-20T17:30:09.375009987Z",
+            "DeltaBytes": 25464222015
+        },
+        {
+            "Timestamp": "2023-12-20T17:30:09.378727477Z",
+            "DeltaBytes": -5024810
+        },
+        {
+            "Timestamp": "2023-12-20T17:34:37.509146934Z",
+            "DeltaBytes": 2073574
+        },
+        {
+            "Timestamp": "2023-12-20T17:34:52.067866793Z",
+            "DeltaBytes": 695106
+        },
+        {
+            "Timestamp": "2023-12-20T17:34:52.11082392Z",
+            "DeltaBytes": -2661335
+        },
+        {
+            "Timestamp": "2023-12-20T17:34:52.120560867Z",
+            "DeltaBytes": 25041
+        },
+        {
+            "Timestamp": "2023-12-20T17:34:54.830730162Z",
+            "DeltaBytes": -5878615
+        },
+        {
+            "Timestamp": "2023-12-20T17:34:59.496771491Z",
+            "DeltaBytes": 1031748271
+        },
+        {
+            "Timestamp": "2023-12-20T17:35:01.22798918Z",
+            "DeltaBytes": 379877
+        },
+        {
+            "Timestamp": "2023-12-20T17:35:01.801955131Z",
+            "DeltaBytes": -893326
+        },
+        {
+            "Timestamp": "2023-12-20T17:35:01.812746454Z",
+            "DeltaBytes": 11489
+        },
+        {
+            "Timestamp": "2023-12-20T17:35:02.590686844Z",
+            "DeltaBytes": 6254
+        },
+        {
+            "Timestamp": "2023-12-20T17:35:04.339931736Z",
+            "DeltaBytes": 385064
+        },
+        {
+            "Timestamp": "2023-12-20T17:35:04.397931547Z",
+            "DeltaBytes": -1165516081
+        },
+        {
+            "Timestamp": "2023-12-20T17:35:04.596607493Z",
+            "DeltaBytes": 349295
+        },
+        {
+            "Timestamp": "2023-12-20T18:06:02.200089622Z",
+            "DeltaBytes": 17798447777
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:38.327016323Z",
+            "DeltaBytes": 335433
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:38.379553162Z",
+            "DeltaBytes": -388656
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:42.133176041Z",
+            "DeltaBytes": -25328590529
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:42.320164202Z",
+            "DeltaBytes": 44303050
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:42.562309933Z",
+            "DeltaBytes": -4121
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:48.560079075Z",
+            "DeltaBytes": 13644
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:49.222346081Z",
+            "DeltaBytes": -43438078
+        },
+        {
+            "Timestamp": "2023-12-20T18:15:49.314218028Z",
+            "DeltaBytes": 371860
+        },
+        {
+            "Timestamp": "2023-12-20T18:20:08.577309302Z",
+            "DeltaBytes": 10299675678
+        },
+        {
+            "Timestamp": "2023-12-20T18:21:47.210333548Z",
+            "DeltaBytes": 42052518
+        },
+        {
+            "Timestamp": "2023-12-20T18:21:59.150331936Z",
+            "DeltaBytes": -720547
+        },
+        {
+            "Timestamp": "2023-12-20T18:21:59.167485747Z",
+            "DeltaBytes": 1753349071
+        },
+        {
+            "Timestamp": "2023-12-20T18:22:55.495615756Z",
+            "DeltaBytes": 4791176
+        },
+        {
+            "Timestamp": "2023-12-20T18:22:56.481130528Z",
+            "DeltaBytes": 57213
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:02.623564477Z",
+            "DeltaBytes": 10303357073
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:07.635292284Z",
+            "DeltaBytes": 6387
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:12.058548138Z",
+            "DeltaBytes": 143114689
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:13.074144867Z",
+            "DeltaBytes": 3262487
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:15.491732246Z",
+            "DeltaBytes": 22780786
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:15.779835913Z",
+            "DeltaBytes": -1657761711
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:22.215577092Z",
+            "DeltaBytes": -11733578
+        },
+        {
+            "Timestamp": "2023-12-20T18:23:22.256615373Z",
+            "DeltaBytes": 5147
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:16.903107364Z",
+            "DeltaBytes": 14845450
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:24.400170411Z",
+            "DeltaBytes": 55642096
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:24.444092911Z",
+            "DeltaBytes": -14839949
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:24.454767803Z",
+            "DeltaBytes": 796607
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:25.959923851Z",
+            "DeltaBytes": -190697001
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:43.097096281Z",
+            "DeltaBytes": 175274
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:51.171605479Z",
+            "DeltaBytes": 2080955
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:51.235697451Z",
+            "DeltaBytes": -378060
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:51.243365294Z",
+            "DeltaBytes": 166561
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:51.248367926Z",
+            "DeltaBytes": -538854
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:52.895675281Z",
+            "DeltaBytes": 1088492
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:53.798229779Z",
+            "DeltaBytes": -1155806
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:53.809160632Z",
+            "DeltaBytes": 1235674
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:54.089737369Z",
+            "DeltaBytes": -1238576
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:54.108265963Z",
+            "DeltaBytes": 13993
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:55.76044297Z",
+            "DeltaBytes": -222106954
+        },
+        {
+            "Timestamp": "2023-12-20T18:24:58.474681348Z",
+            "DeltaBytes": 14445848
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:00.374677259Z",
+            "DeltaBytes": -10299466547
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:01.583385444Z",
+            "DeltaBytes": -17540119469
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:10.704182487Z",
+            "DeltaBytes": 89636
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:10.729802044Z",
+            "DeltaBytes": -84477
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:18.500956383Z",
+            "DeltaBytes": 100445873
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:19.361015406Z",
+            "DeltaBytes": -14393376
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:19.371481913Z",
+            "DeltaBytes": 121301796
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:20.018654026Z",
+            "DeltaBytes": 121295058
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:20.322188003Z",
+            "DeltaBytes": -242574202
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:20.38899305Z",
+            "DeltaBytes": 18740184
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:21.950758764Z",
+            "DeltaBytes": 11545906
+        },
+        {
+            "Timestamp": "2023-12-20T18:25:23.94920154Z",
+            "DeltaBytes": -8725050
+        },
+        {
+            "Timestamp": "2023-12-20T18:27:31.500363208Z",
+            "DeltaBytes": 59942635
+        },
+        {
+            "Timestamp": "2023-12-20T18:27:48.334701389Z",
+            "DeltaBytes": 59926577
+        },
+        {
+            "Timestamp": "2023-12-20T18:27:48.861386642Z",
+            "DeltaBytes": -117706496
+        }
+    ],
+    "count": 552,
+    "size": 57051244612
+}

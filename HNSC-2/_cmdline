@@ -1,0 +1,1 @@
+./spaceranger-2.1.1/spaceranger count --id=28313000_Tumor --transcriptome=./Ecoli_and_GRCh38 --fastqs=./fastq/28313000_Tumor --sample=28313000_Tumor --image=./ing.png --slide=V11S14-034 --area=C1 --localcores=8 --localmem=64
