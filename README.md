@@ -19,6 +19,7 @@ The Extended Unmapped Read method enhances microbiome analysis by utilizing the 
 To ensure transparency and reproducibility, all resources are publicly available as follows:
 
 ### **1. Zenodo (Internal Data: HNSC-1, HNSC-2)**
+
 * **DOI**: [10.5281/zenodo.18763899](https://doi.org/10.5281/zenodo.18763899)
 * **Contents**:
     * `raw_data_subset/`: Original FASTQ files for HNSC-1 and HNSC-2.
@@ -27,15 +28,17 @@ To ensure transparency and reproducibility, all resources are publicly available
     * `output/`: Statistical result matrices and Supplementary Tables.
 
 ### **2. Public Data (External: CRC, OSCC)**
+
 |No   | Sample Name           |                                                                                   
 |-----|-----------------------|
 |1| Oral_Squamous_Cell_Carcinoma   |
 |2| Colorectal_Cancer|
 
 These datasets were used in our paper. You can access and download the datasets using the follw links:
-https://github.com/FredHutch/Galeano-Nino-Bullman-Intratumoral-Microbiota_2022.
+* <https://github.com/FredHutch/Galeano-Nino-Bullman-Intratumoral-Microbiota_2022>.
 
 ### **3. GitHub (Code Repository)**
+
 * **URL**: [https://github.com/portrai-io/Extended-Unmapped-Read](https://github.com/portrai-io/Extended-Unmapped-Read)
 * **Modules**:
     * `01_Mismatch_Calculation/`: Core algorithm for calculating the Mismatch Ratio.
@@ -43,7 +46,8 @@ https://github.com/FredHutch/Galeano-Nino-Bullman-Intratumoral-Microbiota_2022.
     * `03_Supplement/`: Codes for Fisher's Exact Test and hierarchical clustering.
 
 ## Published
-https://www.biorxiv.org/content/10.1101/2024.06.09.598160v1
+
+* Park, S., Park, J., Kim, J., Choi, H., Kim, I., Chung, E-J., and Kwon, J. (2024). Analysis of unmapped RNA-seq data from cancer spatial transcriptome toward characterizing cancer microbiome. Scientific reports, 2026-05. [Link](https://www.nature.com/articles/s41598-026-52324-x)
 
 ## Contact
 
